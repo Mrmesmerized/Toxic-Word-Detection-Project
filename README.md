@@ -12,7 +12,7 @@ You can run this project interactively in your browser via Voilà by clicking th
 
 You can run the notebooks in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Toxic-word-detection-project/HEAD?labpath=notebooks%2FToxic_word_detection.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toxic-Word-Detection-Project/HEAD?labpath=notebooks%2FToxic_word_detection.ipynb)
 
 ## Project Overview
 
