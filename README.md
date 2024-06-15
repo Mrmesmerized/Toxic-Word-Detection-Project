@@ -2,17 +2,11 @@
 
 This project is designed to detect hate speech, offensive language, and neutral tweets using a machine learning model. The model is trained using a dataset of tweets, and the prediction is done using a Decision Tree classifier.
 
-## Voilà
+## Google Colaboratory
 
-You can run this project interactively in your browser via Voilà by clicking the badge below:
+You can run this project interactively in your browser via Google Colab by clicking the badge below:
 
-[![Launch Voilà](https://img.shields.io/badge/launch-Voilà-blue.svg)](https://mybinder.org/v2/ghMrmesmerized/Toxic-Word-Detection-Project/HEAD?urlpath=voila/render/blob/main/notebooks/TWD_preview.ipynb)
-
-## Binder
-
-You can run the notebooks in your browser via Binder by clicking the badge below:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mrmesmerized/Toxic-Word-Detection-Project/blob/main/notebooks/Toxic_word_detection.ipynb/HEAD)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s_y3WvT1HlGN_Q6cMjrXa8o-mYLda-75#scrollTo=FsE0VEvz4ln2)
 
 ## Project Overview
 
