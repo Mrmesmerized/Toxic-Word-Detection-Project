@@ -41,3 +41,11 @@ Ensure you have the following installed:
    ```bash
    python -m venv env
 
+3. Activate the virtual environment:
+   On Windows:
+   ```bash
+   .\env\Scripts\activate
+   
+   On macOS and Linux:
+   ```bash
+   source env/bin/activate
