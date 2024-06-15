@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/JLearning5/Toxic-word-detection-project.git
+   git clone https://github.com/Mrmesmerized/Toxic-Word-Detection-Project.git
    cd Toxic-word-detection-project
    
 2. Create a virtual environment to manage dependencies:
