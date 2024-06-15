@@ -56,7 +56,7 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    
-## Running the Project
+### Running the Project
 
 5. Start Jupyter Notebook or Jupyter Lab:
    ```bash
@@ -67,4 +67,6 @@ Ensure you have the following installed:
 
    ```bash
    jupyter lab
-
+   
+6. Open the project notebook:
+   
