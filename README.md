@@ -69,4 +69,4 @@ Ensure you have the following installed:
    jupyter lab
    
 6. Open the project notebook:
-   
+   Navigate to 'notebooks' directory in the Jupyter interface and open 'Toxic_word_detection.ipynb'.
