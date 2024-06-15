@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+nltk
+ipywidgets
+ipython==8.24.0
+voila==0.5.6
