@@ -36,4 +36,8 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/JLearning5/Toxic-word-detection-project.git
    cd Toxic-word-detection-project
--
+   
+2. Create a virtual environment to manage dependencies:
+   ```bash
+   python -m venv env
+
