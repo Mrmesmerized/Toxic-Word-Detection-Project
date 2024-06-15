@@ -51,3 +51,8 @@ Ensure you have the following installed:
    On macOS and Linux:
    ```bash
    source env/bin/activate
+
+4. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+
