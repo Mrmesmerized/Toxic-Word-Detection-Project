@@ -55,4 +55,11 @@ Ensure you have the following installed:
 4. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
+   
+## Running the Project
 
+5. Start Jupyter Notebook or Jupyter Lab:
+   ```bash
+   jupyter notebook
+
+   
