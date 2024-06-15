@@ -28,7 +28,7 @@ You can run the notebooks in your browser via Binder by clicking the badge below
 Ensure you have the following installed:
 - Python 3.6 or higher
 - Jupyter Notebook or Jupyter Lab
-- Required Python packages (listed below)
+- Required Python packages (check requirements.txt)
 
 ### Installation
 
@@ -71,3 +71,14 @@ Ensure you have the following installed:
 6. Open the project notebook:
    
    Navigate to 'notebooks' directory in the Jupyter interface and open 'Toxic_word_detection.ipynb'.
+
+### Running the Interactive Voilà Interface
+
+7. To run the Voilà interface, ensure you have Voilà installed:
+   ```bash
+   pip install voila
+
+8. Launch the Voilà interface:
+   ```bash
+   voila notebooks/TWD_preview.ipynb
+   ```
