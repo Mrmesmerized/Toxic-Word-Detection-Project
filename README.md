@@ -61,5 +61,10 @@ Ensure you have the following installed:
 5. Start Jupyter Notebook or Jupyter Lab:
    ```bash
    jupyter notebook
+   ```
 
-   
+   or
+
+   ```bash
+   jupyter lab
+
