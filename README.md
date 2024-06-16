@@ -2,6 +2,10 @@
 
 This project is designed to detect hate speech, offensive language, and neutral tweets using a machine learning model. The model is trained using a dataset of tweets, and the prediction is done using a Decision Tree classifier.
 
+Click the badge below to view the dataset:
+
+[![Dataset](https://img.shields.io/badge/Google%20Drive-Dataset-blue)](https://drive.google.com/file/d/1RbAtx5t7x7Com2sjEG6bLrXYJy3LI0vA/view?usp=sharing)
+
 ## Google Colaboratory
 
 You can run this project interactively in your browser via Google Colab by clicking the badge below:
