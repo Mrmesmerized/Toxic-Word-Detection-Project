@@ -16,10 +16,10 @@ To access and examine the machine learning workflow, please click the badge belo
 
 ## Project Overview
 
-- **Data Cleaning**: The tweets are cleaned to remove unwanted characters, URLs, and punctuation.
-- **Text Vectorization**: The cleaned text data is converted into numerical features using `CountVectorizer`.
-- **Model Training**: A Decision Tree classifier is trained on the processed data.
-- **User Interface**: An interactive interface is created using `ipywidgets` for users to input text and get predictions.
+- **Data Cleaning:** The tweets are cleaned to remove unwanted characters, URLs, and punctuation.
+- **Text Vectorization:** The cleaned text data is converted into numerical features using `CountVectorizer`.
+- **Model Training:** A Decision Tree classifier is trained on the processed data.
+- **User Interface:** An interactive interface is created using `ipywidgets` for users to input text and get predictions.
 
 ## Setup Instructions
 
