@@ -8,6 +8,12 @@ You can run this project interactively in your browser via Google Colab by click
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s_y3WvT1HlGN_Q6cMjrXa8o-mYLda-75#scrollTo=FsE0VEvz4ln2)
 
+## How to Access the Machine Learning Workflow
+
+To access and examine the machine learning workflow, please click the badge below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kVZSjD_rgGr8MYbBu3jhjWfCZYSb6Sn1?usp=sharing)
+
 ## Project Overview
 
 - **Data Cleaning**: The tweets are cleaned to remove unwanted characters, URLs, and punctuation.
