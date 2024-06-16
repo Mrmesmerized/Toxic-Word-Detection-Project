@@ -6,7 +6,7 @@ This project is designed to detect hate speech, offensive language, and neutral 
 
 You can run this project interactively in your browser via Google Colab by clicking the badge below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s_y3WvT1HlGN_Q6cMjrXa8o-mYLda-75#scrollTo=FsE0VEvz4ln2)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s_y3WvT1HlGN_Q6cMjrXa8o-mYLda-75?usp=sharing)
 
 ## How to Access the Machine Learning Workflow
 
