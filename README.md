@@ -4,7 +4,7 @@ This project is designed to detect hate speech, offensive language, and neutral 
 
 Click the badge below to view the dataset:
 
-[![Dataset](https://img.shields.io/badge/Google%20Drive-Dataset-blue)](https://drive.google.com/file/d/1RbAtx5t7x7Com2sjEG6bLrXYJy3LI0vA/view?usp=sharing)
+[![Dataset](https://img.shields.io/badge/Google%20Drive-Dataset-blue)](https://colab.research.google.com/drive/1OeTvPua94uRUxq5tZfG5SvJXw1GeIF7Y?usp=sharing)
 
 ## Google Colaboratory
 
