@@ -1,0 +1,54 @@
+diagram_xml = """
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="some-id">
+    <mxGraphModel dx="1374" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Start (Ellipse) -->
+        <mxCell id="2" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d9e3f7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <!-- Data Collection (Rectangle) -->
+        <mxCell id="3" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e3f7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <!-- Data Preprocessing (Parallelogram) -->
+        <mxCell id="4" value="Data Preprocessing" style="parallelogram;whiteSpace=wrap;html=1;fillColor=#d9e3f7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <!-- Model Training (Rectangle) -->
+        <mxCell id="5" value="Model Training" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e3f7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <!-- Decision (Diamond) -->
+        <mxCell id="6" value="Decision" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d9e3f7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <!-- End (Ellipse) -->
+        <mxCell id="7" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d9e3f7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <!-- Connecting Edges -->
+        <mxCell id="8" edge="1" source="2" target="3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;orthogonalLoop=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" edge="1" source="3" target="4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;orthogonalLoop=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" edge="1" source="4" target="5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;orthogonalLoop=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" edge="1" source="5" target="6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;orthogonalLoop=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" edge="1" source="6" target="7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;orthogonalLoop=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
+"""
+
+with open("diagram.drawio",
