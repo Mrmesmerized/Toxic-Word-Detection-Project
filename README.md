@@ -8,9 +8,7 @@ Click the badge below to view the dataset:
 
 ## Google Colaboratory
 
-You can run this project interactively in your browser via Google Colab by clicking the badge below:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bv_rb9rvWOgLaVcd5DN0FnsxihpIqBxP?usp=sharing)
+You can run this project interactively in your browser via Gradio
 
 ## How to Access the Machine Learning Workflow
 
