@@ -14,7 +14,7 @@ You can run this project interactively in your browser via Gradio
 
 To access and examine the machine learning workflow, please click the badge below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Bv_rb9rvWOgLaVcd5DN0FnsxihpIqBxP?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CWgR96yuRSpbfOCa6VahBiz0w5ez2HoZ?usp=sharing)
 
 ## Project Overview
 
